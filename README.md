@@ -4,7 +4,7 @@ Best spamming tool for WhatsApp
 # Commands
 `pkg install git`
 
-`git clone https://github.com/Bithusha/Spam-Whatsapp`
+`git clone https://github.com/Bithusha/Spam-Whatsapp `
 
 `ls`
 
